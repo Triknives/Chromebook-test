@@ -1,0 +1,72 @@
+body {
+  background-color: #e9ecef;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #616d75;
+  color: #faba0a;
+
+}
+
+#jumobotext {
+  font-size: 70px;
+}
+
+.playerOneTitle {
+  color: blue;
+}
+
+.playerTwoTitle {
+  color: red;
+}
+
+#genCard {
+  margin: auto;
+  width: 30%;
+  border: 3px solid grey;
+  padding: 20px;
+  height: 200px;
+  background-color: #616d75;
+  text-align: center;
+}
+
+#diceGen{
+  height: 65px;
+  width: 75px;
+  padding: 30px;
+  border-radius: 15px;
+  font-size: 70px;
+  color: #faba0a;
+  text-align: center;
+}
+
+
+
+#playerOneCard {
+  width: 48%;
+  float:left;
+  margin: 10px;
+  margin-top: 100px;
+  border: 3px solid grey;
+  background-color: #616d75;
+  color: #faba0a;
+  font-size: 35px;
+}
+
+#playerTwoCard {
+  width: 48%;
+  float:left;
+  margin: 10px;
+  margin-top: 100px;
+  border: 3px solid grey;
+  background-color: #616d75;
+  color: #faba0a;
+  font-size: 35px;
+}
+
+.rules{
+  position: fixed;
+  margin-top:350px;
+  margin-left: 15px;
+}
